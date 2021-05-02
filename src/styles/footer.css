@@ -1,0 +1,32 @@
+.site-footer {
+  background-color: white;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
+.site-footer .footer-social-links {
+    text-align: center;
+}
+.site-footer .footer-social-links ul.social-links-list li {
+        margin-right: 25px;
+        display: inline-block;
+}
+.site-footer .footer-social-links ul.social-links-list a {
+          color: rgb(80, 80, 80);
+}
+.site-footer .footer-social-links ul.social-links-list .instagram:hover {
+            color: #e95950;
+          }
+          .site-footer .footer-social-links ul.social-links-list .facebook:hover {
+            color: rgb(66, 103, 178);
+          }
+          .site-footer .footer-social-links ul.social-links-list .twitter:hover {
+            color: rgb(56, 161, 243);
+          }
+          .site-footer .footer-social-links ul.social-links-list .google:hover {
+            color: rgb(221, 75, 57);
+          }
+          .site-footer .footer-social-links ul.social-links-list .linkedin:hover {
+            color: rgb(0, 119, 181);
+          }
+      

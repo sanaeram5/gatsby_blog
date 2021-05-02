@@ -1,0 +1,27 @@
+.social-share-links ul {
+    display: inline-flex;
+    margin: 20px auto;
+}
+.social-share-links li {
+      margin: auto 20px;
+}
+.social-share-links a {
+        opacity: 0.6;
+        transition: all 0.1s ease-in;
+}
+.social-share-links :hover {
+          opacity: 1;
+        }
+        .social-share-links .facebook {
+          color: rgb(66, 103, 178);
+        }
+        .social-share-links .twitter {
+          color: rgb(56, 161, 243);
+        }
+        .social-share-links .google {
+          color: rgb(221, 75, 57);
+        }
+        .social-share-links .linkedin {
+          color: rgb(0, 119, 181);
+        }
+
